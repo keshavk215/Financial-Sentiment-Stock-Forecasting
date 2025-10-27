@@ -1,0 +1,10 @@
+pandas
+yfinance
+torch
+transformers
+gnews
+matplotlib
+scikit-learn
+streamlit
+Flask
+gunicorn

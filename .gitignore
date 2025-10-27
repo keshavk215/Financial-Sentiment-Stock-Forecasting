@@ -1,0 +1,7 @@
+venv
+
+data/*
+!data/.gitkeep
+
+model/*
+!model/.gitkeep

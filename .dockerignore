@@ -1,0 +1,18 @@
+# Ignore virtual environment folders
+venv/
+
+# Ignore Python cache files
+pycache/
+*.pyc
+
+# Ignore the Streamlit app 
+app.py
+
+# Ignore intermediate and output data files
+data/*
+!data/final_dataset.csv
+
+#Ignore Git files
+.git
+.gitignore
+
